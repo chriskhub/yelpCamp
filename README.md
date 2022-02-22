@@ -1,7 +1,9 @@
 # Yelp-Camp
 ## An introduction into full-stack applications.
 
-Created in conjunction with Colt Steele's Web Developer 2021-22 Course on Udemy
+Created in conjunction with Colt Steele's Web Developer 2021-22 Course on Udemy.
+
+[Live Version on Heroku](https://nameless-meadow-04527.herokuapp.com/)
 ## Built With
 
 - HTML5 and Bootstrap 5 CSS Framework for front-end styling, EJS for JS templating.
@@ -20,6 +22,5 @@ for basic protection against XSS.
 - Users may only edit/delete reviews they have written.
 
 ## Future Updates To Include:
-- Application will be deployed live via Heroku.
-- Changes and improvements to front-end styling.
 - Login via social apps with Passport.js.
+- Further front-end styling adjustments and better responsive sizing.
