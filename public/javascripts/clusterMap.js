@@ -113,4 +113,8 @@ map.on("load", () => {
   });
 });
 
+map.on('load', function () {
+  map.resize();
+});
+
 map.addControl(new mapboxgl.NavigationControl());
